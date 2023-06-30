@@ -3,5 +3,7 @@ A key layout for MacOS which removes special symbols from Option modifier layer.
 
 <img width="900" alt="Screenshot 2023-07-01 at 02 24 55" src="https://github.com/drkhn1234/USASCII-Key-Layout/assets/97989691/24742f37-3122-4c5a-ba40-7ce9dd2e0e9e">
 
+<img width="900" alt="Screenshot 2023-07-01 at 02 39 37" src="https://github.com/drkhn1234/USASCII-Key-Layout/assets/97989691/c5f53797-2020-4f3e-889b-0673c7582943">
+
 ## Installation
 Copy or move "usascii.keylayout" file into "~/Library/Keyboard Layouts".
